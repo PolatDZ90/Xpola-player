@@ -7,3 +7,5 @@ http://cdnvine.com:8080/bn14k/tracks-v1a1/mono.m3u8
 http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 http://cdnvine.com:8080/bn1sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="http://cdnvine.com:8080/bn1sd/tracks-v1a1/mono.m3u8" tvg-logo="http://cdnvine.com:8080/bn1hd/tracks-v1a1/mono.m3u8", http://cdnvine.com:8080/bn14k/tracks-v1a1/mono.m3u8
+http://cdnvine.com:8080/bn1hevc/tracks-v1a1/mono.m3u8
